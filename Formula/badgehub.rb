@@ -6,25 +6,25 @@ class Badgehub < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/paulinevos/badgehub-scaffolder/releases/download/v0.3.0/bh-0.3.0-aarch64-apple-darwin.tar.gz"
-      sha256 "7f18d3b1f2f8fe42c6b313174a8b31c8408896ef7738af6aa77cc35ff5a68cac"
+      url "https://github.com/paulinevos/badgehub-scaffolder/releases/download/v0.4.2/bh-0.4.2-aarch64-apple-darwin.tar.gz"
+      sha256 "274d80dc9a988ba4906e06caebc5ab63bf7dfafdf8b9d142b723e2989fe83f01"
     end
 
     on_intel do
-      url "https://github.com/paulinevos/badgehub-scaffolder/releases/download/v0.3.0/bh-0.3.0-x86_64-apple-darwin.tar.gz"
-      sha256 "89ec5b5d538c27e02cc50b75651588b2817ef9f668381ff2d012d4f72526cda6"
+      url "https://github.com/paulinevos/badgehub-scaffolder/releases/download/v0.4.2/bh-0.4.2-x86_64-apple-darwin.tar.gz"
+      sha256 "a5b8e8bd9e8abf99f16c1cd78a2c78bad3efeb8cdf70bd97f10372d3f211042e"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/paulinevos/badgehub-scaffolder/releases/download/v0.3.0/bh-0.3.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "b7bcb47fc3bee5a81a797c4acd1ce881fd9e1c5a562f8c580493c5bc35998849"
+      url "https://github.com/paulinevos/badgehub-scaffolder/releases/download/v0.4.2/bh-0.4.2-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "2ca071c6e0c2516927c8b320a2292c3c244571ccd59766c4b67caff848b0dff5"
     end
 
     on_intel do
-      url "https://github.com/paulinevos/badgehub-scaffolder/releases/download/v0.3.0/bh-0.3.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "22df238c59e2d7351448d8d636edcdd6cb559f5e27b858ca00c84d8b606f3d4c"
+      url "https://github.com/paulinevos/badgehub-scaffolder/releases/download/v0.4.2/bh-0.4.2-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "cecc88477dd2c31b1ab8cc24892eeb6fa7c8c9201cae633cb04dc7ba8291222f"
     end
   end
 
